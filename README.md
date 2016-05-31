@@ -3,6 +3,7 @@
 This is a simple web-server built on Django that can be run from localhost to handle authentication with the oauth interface from Strava.com (http://strava.github.io/api/#access).
 
 To use:
+
 1) Clone the repository
 2) Visit http://labs.strava.com/developers/ to register your application and to get the appropriate tokens
 3) Modify the settings files at StravaR/settings.py (at the very end) to point to some files with the appropriate keys
