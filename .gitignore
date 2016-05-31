@@ -1,0 +1,5 @@
+# Custom
+sensitive*
+
+db.sqlite3
+venv*
